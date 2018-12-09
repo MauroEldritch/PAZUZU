@@ -23,3 +23,7 @@ Pazuzu comes bundled with Exorcist (Previously, Karras), a special tool meant to
 
 ./exorcist.rb
 ```
+
+|#| Date | Conference | Link to Video | Link to Slides |
+|---|---|---|---|---|
+|1| NOV-2018 | DEVFEST Siberia | TBA | https://drive.google.com/open?id=1uXFrLTIIdrypM4ECQxIYF1dz2iVf1OG6w09eB_KkFnA |
